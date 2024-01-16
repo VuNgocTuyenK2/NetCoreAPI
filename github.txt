@@ -1,0 +1,8 @@
+
+tạo folder theo chương xong vào eclipse tạo project cho đường dẫn vào folder này
+ở man hình cho này thì ấn vào cmd không thì ấn thế này cũng được
+vào đến cái cmd rồi 
+b1: ấn "cd" xong kéo folder chương tiếp theo vào
+b2: gõ git add .
+b3: gõ git commit -m"comment" 
+b4: gõ git push
